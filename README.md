@@ -25,7 +25,7 @@ Este archivo contiene un carrito de compras completamente funcional, con todas l
 Espero que encuentres estos archivos útiles y que puedas utilizarlos en tus proyectos. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Gracias por visitar mi repositorio!
 
 
-# English Text:
+# English:
 
 
 ## Welcome to my repository
